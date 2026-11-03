@@ -1,0 +1,7 @@
+# Archivos temporales generados por Python
+__pycache__/
+*.pyc
+# Entornos virtuales
+.venv/
+venv/
+# Nota: logs/eventos.log NO se ignora, porque es evidencia solicitada por la guía.
